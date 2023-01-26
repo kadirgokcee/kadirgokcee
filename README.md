@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadir Gökçe</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **ASP.NET CORE 7 - ANGULAR - MicroServices**
+- 🔭 I’m currently working on **ASP.NET CORE 7 - ANGULAR - MICROSERVICES**
 
 - 🌱 I’m currently learning **ENGLİSH,CORE7,JSON,JAVASCRIPT,ANGULAR**
 
