@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kadir Gökçe</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on **ASP.NET CORE 7 - ANGULAR - MICROSERVICES**
+- 🔭 I’m currently working on **ASP.NET CORE - ANGULAR - MICROSERVICES**
 
-- 🌱 I’m currently learning **ENGLİSH,CORE7,JSON,JAVASCRIPT,ANGULAR**
+- 🌱 I’m currently learning **ENGLİSH,CORE7,JSON,JAVASCRIPT,ANGULAR,REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kadirgokcee](https://github.com/kadirgokcee)
 
