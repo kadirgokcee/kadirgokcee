@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **ASP.NET CORE - ANGULAR - MICROSERVICES**
 
-- 🌱 I’m currently learning **ENGLİSH,CORE7,JSON,JAVASCRIPT,ANGULAR,REACT**
+- 🌱 I’m currently learning **ENGLİSH,CORE,JSON,JAVASCRIPT,ANGULAR,REACT**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kadirgokcee](https://github.com/kadirgokcee)
 
-- 💬 Ask me about **C#,ASP.NET,MVC,RESTful API**
+- 💬 Ask me about **C#,ASP.NET,ASP.NET CORE,MVC,RESTful API,POSTMAN,SOAP,ELASTCHSEARCH,RABBITMQ,MSSQL,LINQ,ORACLE,PLSQL,JENKINS,IMSOMNIA,IIS,GIT,AZURE DEVOPS,**
 
 - 📫 How to reach me **gokcekadr@gmail.com**
 
